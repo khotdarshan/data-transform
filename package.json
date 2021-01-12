@@ -1,0 +1,23 @@
+{
+  "name": "data-transform",
+  "version": "1.0.0",
+  "description": "Wipro Coding Test",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/khotdarshan/data-transform.git"
+  },
+  "author": "Darshan Khot",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/khotdarshan/data-transform/issues"
+  },
+  "homepage": "https://github.com/khotdarshan/data-transform#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1"
+  }
+}
